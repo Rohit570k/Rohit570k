@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76242077/137756115-3b15a7c1-72e4-4fd8-a53e-cd0372423cfe.gif" alt="Smiley face" height="300" width="600">
+<img src="https://user-images.githubusercontent.com/76242077/137756115-3b15a7c1-72e4-4fd8-a53e-cd0372423cfe.gif" alt="Smiley face" height="200" width="500">
 
 ## Hi there 👋, I am Rohit Kumar
 ---
