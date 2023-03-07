@@ -7,7 +7,7 @@ I am a Student and `Programmer`  looking to solve real world problems. I have an
  
 **Welcome to my Github profile , you can checkout my project and don't forget to give me a star**
 
-* 🔭 I am currently in 3rd yr of my College.
+* 🔭 I am currently in final yr of my College.
 * 👀 I am interested in Android Development.
 * 🌱 I’m currently learning Data Structures and Algorithms.
 * 👯 I’m looking to collaborate with other Open Source Contributors on Android.
