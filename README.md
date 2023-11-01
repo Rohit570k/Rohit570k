@@ -21,7 +21,7 @@ I am a Student and `Programmer`  looking to solve real world problems. I have an
 - [GitHub](https://github.com/Rohit570git-hub)
 - [Twitter](https://twitter.com/RohitK_570)
 
-
+[![An image of @rohit570k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohit570k)](https://holopin.io/@rohit570k)
 
 
 <!--
